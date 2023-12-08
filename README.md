@@ -10,3 +10,6 @@ Objetivos específicos: Envolver a comunidade; Promover a popularização da mod
 
 Ferramentas utilizadas: Foi desenvolvido uma análise exploratória de dados utilizando o Jupyter Notebook e a linguagem em Python com uso de algumas biblioytecas como Numpy, Pandas e Matplotlib. Em conjunto com o Tableau que foi utilizado para gerar a visualização das análises.
 
+Visualizção no Tableau:
+https://public.tableau.com/views/corrida/Pases?:language=pt-BR&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/andreza.oliveira/viz/Cidades_Corrida/Cidades
